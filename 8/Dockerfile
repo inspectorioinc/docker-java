@@ -10,8 +10,7 @@ LABEL maintainer="devops@inspectorio.com"
 
 # Set environment variables
 ENV LANG="en_US.UTF-8" LANGUAGE="en_US.UTF-8" LC_ALL="en_US.UTF-8" TERM=xterm \
-	JAVA_VERSION=8 \
-	JAVA_HOME="/usr/lib/jvm/java-8-openjre-amd64"
+	JAVA_VERSION=8 
 	
 	
 # Configure system(charset and timezone) and install JDK
