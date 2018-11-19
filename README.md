@@ -3,15 +3,15 @@
 Java version supported: `8`, `9`, `10`.
 
 ### Pre-installed packages
-*curl
-*htop
-*iftop
-*iotop
-*iputils-ping
-*iptraf
-*lsof
-*net-tools
-*unzip
+* curl
+* htop
+* iftop
+* iotop
+* iputils-ping
+* iptraf
+* lsof
+* net-tools
+* unzip
 *wget
 ### Usage
 ```
